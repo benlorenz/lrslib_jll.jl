@@ -1,0 +1,113 @@
+[[lrslib]]
+arch = "armv7l"
+git-tree-sha1 = "c00e1e676cb102b9f19f38ad37ac7fdf60dd33eb"
+libc = "glibc"
+os = "linux"
+
+    [[lrslib.download]]
+    sha256 = "c0543b83e931fb76af444d927c53a19c2e6e3e350d5cf21e100c8d688582cb30"
+    url = "https://github.com/benlorenz/lrslib_jll.jl/releases/download/lrslib-v7.0.0+0/lrslib.v7.0.0.arm-linux-gnueabihf.tar.gz"
+[[lrslib]]
+arch = "x86_64"
+git-tree-sha1 = "dfcb54302d74f8fe6810d4d7725d57176063a741"
+libc = "glibc"
+os = "linux"
+
+    [[lrslib.download]]
+    sha256 = "50bd057369763eaaf3c76514aeb52641717b846cbefe40e5ecb6e095fc7b9512"
+    url = "https://github.com/benlorenz/lrslib_jll.jl/releases/download/lrslib-v7.0.0+0/lrslib.v7.0.0.x86_64-linux-gnu.tar.gz"
+[[lrslib]]
+arch = "aarch64"
+git-tree-sha1 = "1320553f7d643e424c48ce4560358d97ce003a41"
+libc = "musl"
+os = "linux"
+
+    [[lrslib.download]]
+    sha256 = "0a58645c51bf76a979d63ba868aa9d79c9012d07bdbdfb9b3f4ce7b12a3e8550"
+    url = "https://github.com/benlorenz/lrslib_jll.jl/releases/download/lrslib-v7.0.0+0/lrslib.v7.0.0.aarch64-linux-musl.tar.gz"
+[[lrslib]]
+arch = "powerpc64le"
+git-tree-sha1 = "f349bc5062e651ebf676500366606637d94ee520"
+libc = "glibc"
+os = "linux"
+
+    [[lrslib.download]]
+    sha256 = "6abadfd3331a4257af27951ae96facfa5e8c34e78321b6fadd72fd2b98203f07"
+    url = "https://github.com/benlorenz/lrslib_jll.jl/releases/download/lrslib-v7.0.0+0/lrslib.v7.0.0.powerpc64le-linux-gnu.tar.gz"
+[[lrslib]]
+arch = "x86_64"
+git-tree-sha1 = "c8429ab168307e82049c8d3e2a420d360dfde008"
+os = "macos"
+
+    [[lrslib.download]]
+    sha256 = "da2184ac71906bd046135cbb9680913189ca8980ba15fe05e87d42717963f22d"
+    url = "https://github.com/benlorenz/lrslib_jll.jl/releases/download/lrslib-v7.0.0+0/lrslib.v7.0.0.x86_64-apple-darwin14.tar.gz"
+[[lrslib]]
+arch = "x86_64"
+git-tree-sha1 = "4afbf74d6b985ca5c4d95ba03fd8b785f6a1767f"
+libc = "musl"
+os = "linux"
+
+    [[lrslib.download]]
+    sha256 = "075ff33ad97d9d540fe8b1911cf2d55867d78d16eb130cdb7542e64282ec9c68"
+    url = "https://github.com/benlorenz/lrslib_jll.jl/releases/download/lrslib-v7.0.0+0/lrslib.v7.0.0.x86_64-linux-musl.tar.gz"
+[[lrslib]]
+arch = "x86_64"
+git-tree-sha1 = "3831be05df32a59e91da10b4a569d3d6529a80fc"
+os = "windows"
+
+    [[lrslib.download]]
+    sha256 = "c21aa5210177a858bbf7abb0716fc6c26a06f3d9240840e8d4f034b6a02bba77"
+    url = "https://github.com/benlorenz/lrslib_jll.jl/releases/download/lrslib-v7.0.0+0/lrslib.v7.0.0.x86_64-w64-mingw32.tar.gz"
+[[lrslib]]
+arch = "i686"
+git-tree-sha1 = "4723400c1e7622d3bf172b0fe258e3c62f510949"
+libc = "glibc"
+os = "linux"
+
+    [[lrslib.download]]
+    sha256 = "0343e9ca651e4c0283477eb6b23423e3a1448e42b6728ea3bb1de1bc5aac7d6e"
+    url = "https://github.com/benlorenz/lrslib_jll.jl/releases/download/lrslib-v7.0.0+0/lrslib.v7.0.0.i686-linux-gnu.tar.gz"
+[[lrslib]]
+arch = "aarch64"
+git-tree-sha1 = "206d6d4a91feab055ddf8e470adf9e5241b669f7"
+libc = "glibc"
+os = "linux"
+
+    [[lrslib.download]]
+    sha256 = "d6f4160ad2ac8438a548662a20676921cfe7cba031e395a2d2bb76e47b50a914"
+    url = "https://github.com/benlorenz/lrslib_jll.jl/releases/download/lrslib-v7.0.0+0/lrslib.v7.0.0.aarch64-linux-gnu.tar.gz"
+[[lrslib]]
+arch = "i686"
+git-tree-sha1 = "666224fbe12b03e2c9cb360c9dfd0bf781cbf1aa"
+libc = "musl"
+os = "linux"
+
+    [[lrslib.download]]
+    sha256 = "6d8902a850aa1086bc48ec9a84fc351948a81612851266cece099157c91bd02f"
+    url = "https://github.com/benlorenz/lrslib_jll.jl/releases/download/lrslib-v7.0.0+0/lrslib.v7.0.0.i686-linux-musl.tar.gz"
+[[lrslib]]
+arch = "x86_64"
+git-tree-sha1 = "f45cdb9462c3499e3df9ba912c668a5752290356"
+os = "freebsd"
+
+    [[lrslib.download]]
+    sha256 = "46c64b924ca51412e3f524b29993b8d7ea9a226237dd256290a51ac4df51d150"
+    url = "https://github.com/benlorenz/lrslib_jll.jl/releases/download/lrslib-v7.0.0+0/lrslib.v7.0.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[lrslib]]
+arch = "i686"
+git-tree-sha1 = "6439d27a9c5c918f562797472881fd83fa517000"
+os = "windows"
+
+    [[lrslib.download]]
+    sha256 = "8eebce7ecb25231368aaa7e06303d84161d149c19a2bba476af3ca71f61d53e2"
+    url = "https://github.com/benlorenz/lrslib_jll.jl/releases/download/lrslib-v7.0.0+0/lrslib.v7.0.0.i686-w64-mingw32.tar.gz"
+[[lrslib]]
+arch = "armv7l"
+git-tree-sha1 = "c66150937b62840cf5e62d4d616d507d9d948bcc"
+libc = "musl"
+os = "linux"
+
+    [[lrslib.download]]
+    sha256 = "871b022b1844aa55eb08696ebbd23eb6fe4038ec740ce25acfb49b6ff4a3fe3e"
+    url = "https://github.com/benlorenz/lrslib_jll.jl/releases/download/lrslib-v7.0.0+0/lrslib.v7.0.0.arm-linux-musleabihf.tar.gz"
